@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.ExtractMethod
 {
+    //You have a code fragment that can be grouped together.
     class Problem
     {
         string name;
