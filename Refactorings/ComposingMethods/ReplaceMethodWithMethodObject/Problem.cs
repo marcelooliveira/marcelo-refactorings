@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.ReplaceMethodWithMethodObject
 {
+    //You have a long method in which the local variables are so intertwined that you cannot apply [Extract Method].
     class Problem
     {
         //...

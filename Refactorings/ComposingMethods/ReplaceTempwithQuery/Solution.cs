@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.ReplaceTempwithQuery
 {
+    //Move the entire expression to a separate method and return the result from it. Query the method instead of using a variable. Incorporate the new method in other methods, if necessary.
     class Solution
     {
         int quantity = 10;

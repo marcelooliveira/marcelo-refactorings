@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.SubstituteAlgorithm
 {
+    //Replace the body of the method that implements the algorithm with a new algorithm.
     class Solution
     {
         string FoundPerson(string[] people)

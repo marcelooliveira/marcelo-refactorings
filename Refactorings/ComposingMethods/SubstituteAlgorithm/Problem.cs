@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.SubstituteAlgorithm
 {
+    //So you want to replace an existing algorithm with a new one?
     class Problem
     {
         string FoundPerson(string[] people)

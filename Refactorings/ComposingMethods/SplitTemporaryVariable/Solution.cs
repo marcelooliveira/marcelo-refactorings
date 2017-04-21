@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.SplitTemporaryVariable
 {
+    //Use different variables for different values. Each variable should be responsible for only one particular thing
     class Solution
     {
         private int height;

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.RemoveAssignmentsToParameters
 {
+    //Use a local variable instead of a parameter.
     class Solution
     {
         int Discount(int inputVal, int quantity)

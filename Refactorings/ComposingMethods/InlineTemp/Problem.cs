@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Refactorings.InlineTemp
+namespace Refactorings.InlineTemp1
 {
+    //You have a temporary variable that is assigned the result of a simple expression and nothing more.
     class Order
     {
         public double BasePrice() { return 124.79; }

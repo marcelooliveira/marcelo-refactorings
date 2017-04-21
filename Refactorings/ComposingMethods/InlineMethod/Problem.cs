@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.InlineMethod
 {
+    //When a method body is more obvious than the method itself, use this technique.
     class Problem
     {
         int numberOfLateDeliveries = 9;

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Refactorings.ReplaceTempwithQuery
 {
+    //You place the result of an expression in a local variable for later use in your code.
     class Problem
     {
         int quantity = 10;
