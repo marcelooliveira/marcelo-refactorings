@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Refactorings.Conditionals.DecomposeConditional
+namespace Refactorings.Conditionals.ReplaceConditionalwithPolymorphism
 {
     class Solution
     {
