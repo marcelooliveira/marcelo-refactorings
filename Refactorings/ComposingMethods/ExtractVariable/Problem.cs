@@ -7,8 +7,8 @@ namespace Refactorings.ExtractVariable
     //You have an expression that is hard to understand.
     class Problem
     {
-        string platform;
-        string browser;
+        string platform = "abc";
+        string browser = "xyz";
         int resize = 7;
         bool wasInitialized() { return false; }
 
