@@ -1,0 +1,1 @@
+﻿# Instead, create a new class and place the fields and methods responsible for the relevant functionality in it.![File2](file2.png)
