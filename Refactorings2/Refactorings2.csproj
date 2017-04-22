@@ -43,13 +43,160 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\Refactorings\ComposingMethods\ExtractMethod\Problem.cs">
+      <Link>ComposingMethods\ExtractMethod\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\ExtractMethod\Solution.cs">
+      <Link>ComposingMethods\ExtractMethod\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\ExtractVariable\Problem.cs">
+      <Link>ComposingMethods\ExtractVariable\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\ExtractVariable\Solution.cs">
+      <Link>ComposingMethods\ExtractVariable\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\InlineMethod\Problem.cs">
+      <Link>ComposingMethods\InlineMethod\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\InlineMethod\Solution.cs">
+      <Link>ComposingMethods\InlineMethod\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\InlineTemp\Problem.cs">
+      <Link>ComposingMethods\InlineTemp\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\InlineTemp\Solution.cs">
+      <Link>ComposingMethods\InlineTemp\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\RemoveAssignmentsToParameters\Problem.cs">
+      <Link>ComposingMethods\RemoveAssignmentsToParameters\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\RemoveAssignmentsToParameters\Solution.cs">
+      <Link>ComposingMethods\RemoveAssignmentsToParameters\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\ReplaceMethodWithMethodObject\Problem.cs">
+      <Link>ComposingMethods\ReplaceMethodWithMethodObject\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\ReplaceMethodWithMethodObject\Solution.cs">
+      <Link>ComposingMethods\ReplaceMethodWithMethodObject\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\ReplaceTempwithQuery\Problem.cs">
+      <Link>ComposingMethods\ReplaceTempwithQuery\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\ReplaceTempwithQuery\Solution.cs">
+      <Link>ComposingMethods\ReplaceTempwithQuery\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\SplitTemporaryVariable\Problem.cs">
+      <Link>ComposingMethods\SplitTemporaryVariable\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\SplitTemporaryVariable\Solution.cs">
+      <Link>ComposingMethods\SplitTemporaryVariable\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\SubstituteAlgorithm\Problem.cs">
+      <Link>ComposingMethods\SubstituteAlgorithm\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\ComposingMethods\SubstituteAlgorithm\Solution.cs">
+      <Link>ComposingMethods\SubstituteAlgorithm\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ConsolidateConditionalExpression\Problem.cs">
+      <Link>Conditionals\ConsolidateConditionalExpression\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ConsolidateConditionalExpression\Solution.cs">
+      <Link>Conditionals\ConsolidateConditionalExpression\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ConsolidateDuplicateConditionalFragments\Problem.cs">
+      <Link>Conditionals\ConsolidateDuplicateConditionalFragments\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ConsolidateDuplicateConditionalFragments\Solution.cs">
+      <Link>Conditionals\ConsolidateDuplicateConditionalFragments\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\DecomposeConditional\Problem.cs">
+      <Link>Conditionals\DecomposeConditional\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\DecomposeConditional\Solution.cs">
+      <Link>Conditionals\DecomposeConditional\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\IntroduceAssertion\Problem.cs">
+      <Link>Conditionals\IntroduceAssertion\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\IntroduceAssertion\Solution.cs">
+      <Link>Conditionals\IntroduceAssertion\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\IntroduceNullObject\Problem.cs">
+      <Link>Conditionals\IntroduceNullObject\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\IntroduceNullObject\Solution.cs">
+      <Link>Conditionals\IntroduceNullObject\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\RemoveControlFlag\Problem.cs">
+      <Link>Conditionals\RemoveControlFlag\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\RemoveControlFlag\Solution.cs">
+      <Link>Conditionals\RemoveControlFlag\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ReplaceConditionalwithPolymorphism\Problem.cs">
+      <Link>Conditionals\ReplaceConditionalwithPolymorphism\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ReplaceConditionalwithPolymorphism\Solution.cs">
+      <Link>Conditionals\ReplaceConditionalwithPolymorphism\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ReplaceNestedConditionalwithGuardClauses\Problem.cs">
+      <Link>Conditionals\ReplaceNestedConditionalwithGuardClauses\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\Conditionals\ReplaceNestedConditionalwithGuardClauses\Solution.cs">
+      <Link>Conditionals\ReplaceNestedConditionalwithGuardClauses\Solution.cs</Link>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="MovingFeaturesBetweenObjects\ExtractClass\Problem.md" />
+    <None Include="MovingFeaturesBetweenObjects\ExtractClass\Solution.md" />
+    <None Include="MovingFeaturesBetweenObjects\HideDelegate\Problem.md" />
+    <None Include="MovingFeaturesBetweenObjects\HideDelegate\Solution.md" />
+    <None Include="MovingFeaturesBetweenObjects\InlineClass\Problem.md" />
+    <None Include="MovingFeaturesBetweenObjects\InlineClass\Solution.md" />
+    <None Include="MovingFeaturesBetweenObjects\IntroduceLocalExtension\Problem.md" />
+    <None Include="MovingFeaturesBetweenObjects\IntroduceLocalExtension\Solution.md" />
+    <None Include="MovingFeaturesBetweenObjects\MoveField\Problem.md" />
+    <None Include="MovingFeaturesBetweenObjects\MoveField\Solution.md" />
+    <None Include="MovingFeaturesBetweenObjects\MoveMethod\Problem.md" />
+    <None Include="MovingFeaturesBetweenObjects\MoveMethod\Solution.md" />
+    <None Include="MovingFeaturesBetweenObjects\RemoveMiddleMan\Problem.md" />
+    <None Include="MovingFeaturesBetweenObjects\RemoveMiddleMan\Solution.md" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="MovingFeaturesBetweenObjects\ExtractClass\file.png" />
+    <Content Include="MovingFeaturesBetweenObjects\ExtractClass\file2.png" />
+    <Content Include="MovingFeaturesBetweenObjects\HideDelegate\file.png" />
+    <Content Include="MovingFeaturesBetweenObjects\HideDelegate\file2.png" />
+    <Content Include="MovingFeaturesBetweenObjects\InlineClass\file.png" />
+    <Content Include="MovingFeaturesBetweenObjects\InlineClass\file2.png" />
+    <Content Include="MovingFeaturesBetweenObjects\IntroduceLocalExtension\file.png" />
+    <Content Include="MovingFeaturesBetweenObjects\IntroduceLocalExtension\file2.png" />
+    <Content Include="MovingFeaturesBetweenObjects\MoveField\Solution.png" />
+    <Content Include="MovingFeaturesBetweenObjects\MoveMethod\Problem.png" />
+    <Content Include="MovingFeaturesBetweenObjects\MoveMethod\Solution.png" />
+    <Content Include="MovingFeaturesBetweenObjects\RemoveMiddleMan\file.png" />
+    <Content Include="MovingFeaturesBetweenObjects\RemoveMiddleMan\file2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MovingFeaturesBetweenObjects\IntroduceForeignMethod\" />
+    <Folder Include="OrganizingData\ChangeReferencetoValue\" />
+    <Folder Include="OrganizingData\ChangeUnidirectionalAssociationtoBidirectional\" />
+    <Folder Include="OrganizingData\ChangeValuetoReference\" />
+    <Folder Include="OrganizingData\DuplicateObservedData\" />
+    <Folder Include="OrganizingData\EncapsulateCollection\" />
+    <Folder Include="OrganizingData\EncapsulateField\" />
+    <Folder Include="OrganizingData\ReplaceArraywithObject\" />
+    <Folder Include="OrganizingData\ReplaceDataValuewithObject\" />
+    <Folder Include="OrganizingData\ReplaceMagicNumberwithSymbolicConstant\" />
+    <Folder Include="OrganizingData\ReplaceSubclasswithFields\" />
+    <Folder Include="OrganizingData\ReplaceTypeCodewithClass\" />
+    <Folder Include="OrganizingData\ReplaceTypeCodewithStateStrategy\" />
+    <Folder Include="OrganizingData\ReplaceTypeCodewithSubclasses\" />
+    <Folder Include="OrganizingData\SelfEncapsulateField\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
