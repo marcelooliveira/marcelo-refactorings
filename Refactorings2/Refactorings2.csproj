@@ -145,6 +145,90 @@
     <Compile Include="..\Refactorings\Conditionals\ReplaceNestedConditionalwithGuardClauses\Solution.cs">
       <Link>Conditionals\ReplaceNestedConditionalwithGuardClauses\Solution.cs</Link>
     </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ChangeReferencetoValue\Problem.cs">
+      <Link>OrganizingData\ChangeReferencetoValue\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ChangeReferencetoValue\Solution.cs">
+      <Link>OrganizingData\ChangeReferencetoValue\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ChangeUnidirectionalAssociationtoBidirectional\Problem.cs">
+      <Link>OrganizingData\ChangeUnidirectionalAssociationtoBidirectional\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ChangeUnidirectionalAssociationtoBidirectional\Solution.cs">
+      <Link>OrganizingData\ChangeUnidirectionalAssociationtoBidirectional\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ChangeValuetoReference\Problem.cs">
+      <Link>OrganizingData\ChangeValuetoReference\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ChangeValuetoReference\Solution.cs">
+      <Link>OrganizingData\ChangeValuetoReference\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\DuplicateObservedData\Problem.cs">
+      <Link>OrganizingData\DuplicateObservedData\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\DuplicateObservedData\Solution.cs">
+      <Link>OrganizingData\DuplicateObservedData\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\EncapsulateCollection\Problem.cs">
+      <Link>OrganizingData\EncapsulateCollection\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\EncapsulateCollection\Solution.cs">
+      <Link>OrganizingData\EncapsulateCollection\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\EncapsulateField\Problem.cs">
+      <Link>OrganizingData\EncapsulateField\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\EncapsulateField\Solution.cs">
+      <Link>OrganizingData\EncapsulateField\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceArraywithObject\Problem.cs">
+      <Link>OrganizingData\ReplaceArraywithObject\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceArraywithObject\Solution.cs">
+      <Link>OrganizingData\ReplaceArraywithObject\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceDataValuewithObject\Problem.cs">
+      <Link>OrganizingData\ReplaceDataValuewithObject\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceDataValuewithObject\Solution.cs">
+      <Link>OrganizingData\ReplaceDataValuewithObject\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceMagicNumberwithSymbolicConstant\Problem.cs">
+      <Link>OrganizingData\ReplaceMagicNumberwithSymbolicConstant\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceMagicNumberwithSymbolicConstant\Solution.cs">
+      <Link>OrganizingData\ReplaceMagicNumberwithSymbolicConstant\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceSubclasswithFields\Problem.cs">
+      <Link>OrganizingData\ReplaceSubclasswithFields\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceSubclasswithFields\Solution.cs">
+      <Link>OrganizingData\ReplaceSubclasswithFields\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceTypeCodewithClass\Problem.cs">
+      <Link>OrganizingData\ReplaceTypeCodewithClass\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceTypeCodewithClass\Solution.cs">
+      <Link>OrganizingData\ReplaceTypeCodewithClass\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceTypeCodewithStateStrategy\Problem.cs">
+      <Link>OrganizingData\ReplaceTypeCodewithStateStrategy\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceTypeCodewithStateStrategy\Solution.cs">
+      <Link>OrganizingData\ReplaceTypeCodewithStateStrategy\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceTypeCodewithSubclasses\Problem.cs">
+      <Link>OrganizingData\ReplaceTypeCodewithSubclasses\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\ReplaceTypeCodewithSubclasses\Solution.cs">
+      <Link>OrganizingData\ReplaceTypeCodewithSubclasses\Solution.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\SelfEncapsulateField\Problem.cs">
+      <Link>OrganizingData\SelfEncapsulateField\Problem.cs</Link>
+    </Compile>
+    <Compile Include="..\Refactorings\OrganizingData\SelfEncapsulateField\Solution.cs">
+      <Link>OrganizingData\SelfEncapsulateField\Solution.cs</Link>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -182,20 +266,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="MovingFeaturesBetweenObjects\IntroduceForeignMethod\" />
-    <Folder Include="OrganizingData\ChangeReferencetoValue\" />
-    <Folder Include="OrganizingData\ChangeUnidirectionalAssociationtoBidirectional\" />
-    <Folder Include="OrganizingData\ChangeValuetoReference\" />
-    <Folder Include="OrganizingData\DuplicateObservedData\" />
-    <Folder Include="OrganizingData\EncapsulateCollection\" />
-    <Folder Include="OrganizingData\EncapsulateField\" />
-    <Folder Include="OrganizingData\ReplaceArraywithObject\" />
-    <Folder Include="OrganizingData\ReplaceDataValuewithObject\" />
-    <Folder Include="OrganizingData\ReplaceMagicNumberwithSymbolicConstant\" />
-    <Folder Include="OrganizingData\ReplaceSubclasswithFields\" />
-    <Folder Include="OrganizingData\ReplaceTypeCodewithClass\" />
-    <Folder Include="OrganizingData\ReplaceTypeCodewithStateStrategy\" />
-    <Folder Include="OrganizingData\ReplaceTypeCodewithSubclasses\" />
-    <Folder Include="OrganizingData\SelfEncapsulateField\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
