@@ -5,30 +5,4 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Generalisation\ExtractSubclass\" />
-    <Folder Include="Generalisation\ExtractSuperclass\" />
-    <Folder Include="Generalisation\ExtractInterface\" />
-    <Folder Include="Generalisation\CollapseHierarchy\" />
-    <Folder Include="Generalisation\FormTemplateMethod\" />
-    <Folder Include="Generalisation\ReplaceDelegationwithInheritance\" />
-    <Folder Include="Generalisation\PushDownField\" />
-    <Folder Include="Generalisation\PushDownMethod\" />
-    <Folder Include="Generalisation\PullUpConstructorBody\" />
-    <Folder Include="Generalisation\PullUpMethod\" />
-    <Folder Include="Generalisation\PullUpField\" />
-    <Folder Include="SimplifyingCalls\AddParameter\" />
-    <Folder Include="SimplifyingCalls\IntroduceParameterObject\" />
-    <Folder Include="SimplifyingCalls\Hide Method\" />
-    <Folder Include="SimplifyingCalls\ReplaceExceptionwithTest\" />
-    <Folder Include="SimplifyingCalls\ReplaceErrorCodewithException\" />
-    <Folder Include="SimplifyingCalls\ReplaceConstructorwithFactoryMethod\" />
-    <Folder Include="SimplifyingCalls\RemoveSettingMethod\" />
-    <Folder Include="SimplifyingCalls\ReplaceParameterwithMethodCall\" />
-    <Folder Include="SimplifyingCalls\PreserveWholeObject\" />
-    <Folder Include="SimplifyingCalls\ParameterizeMethod\" />
-    <Folder Include="SimplifyingCalls\RemoveParameter\" />
-    <Folder Include="SimplifyingCalls\RenameMethod\" />
-  </ItemGroup>
-
 </Project>
